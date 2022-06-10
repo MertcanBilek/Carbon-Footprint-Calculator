@@ -1,0 +1,49 @@
+#Home
+1 kHw electirc        ---> 0.43 kg
+1 kg coal             ---> 2,93 kg
+1 m*3 natural gas     ---> 2,1857 kg
+
+#Transportation
+Metro 100 km          ---> 5,3 kg 
+Bus 100 km            ---> 8,9 kg
+Train 100 km          ---> 6 kg
+Personal Car          ---> 18 kg
+
+#Flight
+short haul flight     ---> avarage ?= 237 kg
+medium haul flight    ---> avarage ?= 516 kg
+long haul flight      ---> avarage ?= 987 kg 
+
+#Recycle
+
+
+#Life Style
+1-Packaged packaged product
+
+Packaged product only ---> 59 kg
+Fifty Fifty           ---> 29 kg
+Nearly No             ---> 0,7 kg
+
+No Recycle            ---> 69 kg
+1/3 Recycle           ---> 41 kg
+2/3 Recycle           ---> 28 kg
+3/3 Recycle           ---> 0 kg
+
+3- Meals
+1 kg meat             ---> 33 kg +
+1 kg White meat       ---> 8 kg +
+1 Lt Milk             ---> 8 kg + 
+1 egg                 ---> 300 gr +
+1 kg oranfe           ---> 1 kg +
+1 bread               ---> 1 kg +
+1 kg cheese           ---> 13,5 kg +
+1 kg patato           ---> 2,9 kg +
+1 kg Turkey           ---> 9,9 kg +
+1 kg tomato           ---> 1,1 kg +
+1 kg yogurt           ---> 2,2 kg +
+1 kg rice             ---> 2,7 + 
+1 kg lentil           ---> 0,9 + 
+
+kaynaklar : 
+https://www.esgturkey.com/karbon-ayak-izi-dengeleme/#1620737374123-7d2f8a66-d8d2
+karbonayakizi.com
